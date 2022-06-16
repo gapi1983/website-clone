@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+
+    background:#2121;
+
+}
+#reg{
+    margin-bottom: 40px;
+}
+#btn{
+    margin-top: 40px;
+    width: 120px;
+}
